@@ -1,11 +1,4 @@
-# COMP1110/1140/6710 Assignment 1
-
-## Purpose
-
-This assignment is introductory, helping you gain familiarity with the basics
-of Java, but doing so in the context of slightly larger piece of code.  Most of
-the assignment is composed of a series of small tasks.
-
+# Penguins and ice
 ## Overview
 
 The assignment is based on a simple children's puzzle called [Penguins Pool Party](https://www.smartgames.eu/uk/one-player-games/penguins-pool-party),
